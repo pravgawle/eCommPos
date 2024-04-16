@@ -1,2 +1,2 @@
 # eCommPos
-Ecommerce template with React native typescript
+Ecommerce template App created with React native typescript
