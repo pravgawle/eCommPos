@@ -1,0 +1,9 @@
+export const primaryColor = '#13678A';
+export const secondaryColor = '#F7F7FC';
+export const redColor = '#900';
+export const whiteColor = 'white';
+export const blackColor = 'black';
+export const textColor = '#ECF0F4';
+export const backgroundColor = '#fff';
+export const buttonColor = '#FF5722';
+export const transparentBlackBackground = 'rgba(0, 0, 0, 0.3)';

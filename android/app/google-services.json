@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667014035138",
+    "project_id": "ecommpos-36c03",
+    "storage_bucket": "ecommpos-36c03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667014035138:android:bdebae997f85586a766d5b",
+        "android_client_info": {
+          "package_name": "com.ecommpos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1FW7JFRrMpjtsWR8a41g1l3JanxiRYN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
